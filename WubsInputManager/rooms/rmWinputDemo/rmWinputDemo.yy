@@ -23,8 +23,8 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_349B1D2A","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_31ADF4B8","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_349B1D2A","path":"rooms/rmWinputDemo/rmWinputDemo.yy",},
+    {"name":"inst_31ADF4B8","path":"rooms/rmWinputDemo/rmWinputDemo.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -52,7 +52,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rmWinputDemo",
   "tags": [],
   "resourceType": "GMRoom",
 }
