@@ -1,9 +1,12 @@
 **Winput**
+
 Wub's Input system.
 
 
 **Overview:**
-Winput is an input management system for Gamemaker Studio 2.3+ that makes use of *Actions* where each action can have multiple keys or gamepads assigned to it.
+Winput is an input management system for Gamemaker Studio 2.3+ that makes use of *Actions* where each action can have multiple keys or gamepad features assigned to it.
+This makes it easier to add gamepad support, and allow rebinding of keys in your games.
+
 
 Example:  To setup an action, you would use the winputAddAction function.
 
